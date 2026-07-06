@@ -1,5 +1,6 @@
 # Whoami
-Who am i?
+What is whoami?
+**whoami is an open-source stress-testing tool designed for network and firewall testing.**
 
 **compilation commands**
 
