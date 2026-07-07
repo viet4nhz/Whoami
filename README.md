@@ -4,8 +4,8 @@ What is whoami?
 
 ## compilation commands ##
 
-# aarch64
+**aarch64**
 clang++ --target=aarch64-linux-gnu -std=c++17 -O2 -o whoami_arm64 whoami.cpp -lssl -
   lcrypto -lpthread
-# x86_64
+**x86_64**
 clang++ -std=c++17 -O2 -o whoami-x86_64 whoami.cpp -lssl -lcrypto -lpthread
